@@ -1,0 +1,30 @@
+body {
+  background: rgb(0, 0, 0);
+  color: #fff;
+  font-family: 'Press Start 2P';
+  text-transform: uppercase;
+}
+
+a {
+  color: #843b96;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+}
+
+#header {
+  width: 800px;
+  margin: auto;
+}
+
+canvas {
+	margin: auto;
+	display: block;
+}
+
+#stage {
+	width: 800px;
+	margin: auto;
+}
